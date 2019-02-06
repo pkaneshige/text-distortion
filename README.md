@@ -1,1 +1,3 @@
-# text-distortion
+# Text Distortion Effects with Blotter.js
+
+

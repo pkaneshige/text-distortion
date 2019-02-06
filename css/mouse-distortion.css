@@ -1,0 +1,14 @@
+.instructions {
+  color: #fff;
+}
+
+.image-frame {
+  align-items: flex-end;
+  background-image: url(../img/concert.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  height: 50%;
+  justify-content: flex-end;
+  width: 80%;
+}
